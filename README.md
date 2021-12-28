@@ -1,0 +1,2 @@
+# MusicScore
+Lilypond application
